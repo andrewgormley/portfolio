@@ -30,12 +30,12 @@ function App() {
 
         <AnimatePresence>
           <Switch>
-            <Route exact path='/' component={Home} />
-            <Route exact path='/casestudies' component={CaseStudies} />
-            <Route exact path='/about' component={About} />
-            <Route exact path='/casestudies/crowdcube' component={Crowdcube} />
-            <Route exact path='/casestudies/sweatshop' component={Sweatshop} />
-            <Route exact path='/casestudies/ldn19' component={Ldn} />
+            <Route exact path='/portfolio' component={Home} />
+            <Route exact path='/portfolio/casestudies' component={CaseStudies} />
+            <Route exact path='/portfolio/about' component={About} />
+            <Route exact path='/portfolio/casestudies/crowdcube' component={Crowdcube} />
+            <Route exact path='/portfolio/casestudies/sweatshop' component={Sweatshop} />
+            <Route exact path='/portfolio/casestudies/ldn19' component={Ldn} />
           </Switch>
         </AnimatePresence>
 

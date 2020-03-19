@@ -16,25 +16,25 @@ function Nav() {
             <span>>_</span>
           </li>
 
-          <Link to="/">
+          <Link to="/portfolio/">
             <motion.li whileHover={{y: -5, transition: { duration: .3 },}}>
               andrewGormley
             </motion.li>
           </Link>
 
-          <Link to="/casestudies">
+          <Link to="/portfolio/casestudies">
             <motion.li whileHover={{y: -5, transition: { duration: .3 },}}>
               caseStudies
             </motion.li>
           </Link>
 
-          <Link to="/about">
+          <Link to="/portfolio/about">
             <motion.li whileHover={{y: -5, transition: { duration: .3 },}} style={{marginRight: "0px"}}>
               about
             </motion.li>
           </Link>
 
-          <Link to="/about">
+          <Link to="/portfolio/about">
             <motion.li whileHover={{y: -5, transition: { duration: .3 },}} style={{float: "right", marginTop: "-5px"}} className="d-none d-md-block">
               <div className="avatar-emblem">
                 <img src={image} alt="andrew gormley profile"/>
