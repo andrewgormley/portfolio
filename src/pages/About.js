@@ -55,6 +55,10 @@ function About() {
             <li><span role="img" aria-label="not finishing side projects" data-tip data-for='prohibited'>🚫</span> Not finishing side projects</li>
           </ul>
 
+          <p>
+          To get in contact with me click the button below, alternatively email me at
+          <a href="mailto:andrewgormley91@gmail.com" target="_top">andrewgormley91@gmail.com</a>
+          </p>
           <a href="https://forms.gle/2vijvjoAkVmAEcix5" target="_blank" rel="noopener noreferrer">
             <button className="my-2">contact me</button>
           </a>
