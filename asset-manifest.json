@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9ccae4a8.chunk.css",
-    "main.js": "/portfolio/static/js/main.29b4b105.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.29b4b105.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a4bef992.chunk.css",
+    "main.js": "/portfolio/static/js/main.ad06df55.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ad06df55.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
     "static/js/2.3861b8c5.chunk.js": "/portfolio/static/js/2.3861b8c5.chunk.js",
     "static/js/2.3861b8c5.chunk.js.map": "/portfolio/static/js/2.3861b8c5.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d259a54f1019cb8bde2253d72a6fd80b.js": "/portfolio/precache-manifest.d259a54f1019cb8bde2253d72a6fd80b.js",
+    "precache-manifest.0b73e870515135e3e8415ebf5f7cb605.js": "/portfolio/precache-manifest.0b73e870515135e3e8415ebf5f7cb605.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.9ccae4a8.chunk.css.map": "/portfolio/static/css/main.9ccae4a8.chunk.css.map",
+    "static/css/main.a4bef992.chunk.css.map": "/portfolio/static/css/main.a4bef992.chunk.css.map",
     "static/js/2.3861b8c5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3861b8c5.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/portfolio/static/media/1.c0324d99.jpg",
     "static/media/2.jpg": "/portfolio/static/media/2.255aa7af.jpg",
@@ -23,7 +23,7 @@
     "static/media/crowdcube-cover.jpg": "/portfolio/static/media/crowdcube-cover.b8b03948.jpg",
     "static/media/data.jpg": "/portfolio/static/media/data.4b6af768.jpg",
     "static/media/design-team.jpg": "/portfolio/static/media/design-team.6198fb5f.jpg",
-    "static/media/header-illustration.png": "/portfolio/static/media/header-illustration.284c5f7b.png",
+    "static/media/header-illustration.png": "/portfolio/static/media/header-illustration.acae395b.png",
     "static/media/ldn19-cover.jpg": "/portfolio/static/media/ldn19-cover.a51ce2a5.jpg",
     "static/media/live-homepage.jpg": "/portfolio/static/media/live-homepage.084b9b12.jpg",
     "static/media/live-list-page.jpg": "/portfolio/static/media/live-list-page.4744f639.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
     "static/js/2.3861b8c5.chunk.js",
-    "static/css/main.9ccae4a8.chunk.css",
-    "static/js/main.29b4b105.chunk.js"
+    "static/css/main.a4bef992.chunk.css",
+    "static/js/main.ad06df55.chunk.js"
   ]
 }
