@@ -16,7 +16,7 @@ function Banner() {
       </h1>
 
       <div className="illustration d-none d-lg-block">
-        <img src={illustration} alt="illustration of man using laptop"/>
+        <img src={illustration} alt="illustration of robots"/>
       </div>
     </div>
 
